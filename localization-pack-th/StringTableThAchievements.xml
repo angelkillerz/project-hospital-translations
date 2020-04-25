@@ -1,12 +1,12 @@
 ﻿<Database>
     <GameDBStringTable ID="LOC_EN_ACHIEVEMENTS">
 
-        <LanguageCode>en</LanguageCode>
-        <LanguageNameLocalized>English</LanguageNameLocalized>
+        <LanguageCode>th</LanguageCode>
+        <LanguageNameLocalized>Thai</LanguageNameLocalized>
     
         <Contributors>
           <Name>Oxymoron Games</Name>
-          <Name>Bo Kelly</Name>
+          <Name>Sireethon Bunchongpru</Name>
         </Contributors>
     
         <LocalizedStrings>
